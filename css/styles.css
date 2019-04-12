@@ -105,6 +105,7 @@ div.photo h1.title{
 }
 
 div.paysage img{
+	padding-top: 10px;
 	width: 60%;
 	height: auto;
 	margin-left: 20%;
